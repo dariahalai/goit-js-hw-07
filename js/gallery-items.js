@@ -62,4 +62,89 @@ export const galleryItems = [
       'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
     description: 'Lighthouse-Coast-Sea',
   },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/04/26/01/09/tibet-7157189__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/04/26/01/09/tibet-7157189_1280.jpg',
+    description: 'Tibet-Mountains-Snow-Mountain-Peak',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2021/08/20/07/13/bird-6559677__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2021/08/20/07/13/bird-6559677_1280.jpg',
+    description: 'Bird-Waterfall-Niagara-Falls-Nature',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/09/29/01/26/lighthouse-7486290__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/09/29/01/26/lighthouse-7486290_1280.jpg',
+    description: 'Lighthouse-Wind-Vane-Sea-Watchtower',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/09/26/04/24/swan-7479623__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/09/26/04/24/swan-7479623_1280.jpg',
+    description: 'Swan',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/09/04/12/24/hippos-7431581__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/09/04/12/24/hippos-7431581_1280.jpg',
+    description: 'Hippopotamus-Mammals-Family',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/09/08/10/19/eye-7440640__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/09/08/10/19/eye-7440640_1280.jpg',
+    description: 'A-Green-Eye',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/09/03/14/32/airplane-7429725__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/09/03/14/32/airplane-7429725_1280.jpg',
+    description: 'An-Airplaine-On-The-Sky',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/10/08/18/44/foal-7507646__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/10/08/18/44/foal-7507646_1280.jpg',
+    description: 'Wild-Horses-Free-Living-Zoo',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/09/24/15/39/rocks-7476616__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/09/24/15/39/rocks-7476616_1280.jpg',
+    description: 'Rocks-Purple-Flowers',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/10/10/15/13/bird-7512017__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/10/10/15/13/bird-7512017_1280.jpg',
+    description: 'Bird-Feathers-Hoenderdaell-Rhea',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/10/03/19/03/building-7496662__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/10/03/19/03/building-7496662_1280.jpg',
+    description: 'Building-Skyscraper-Architecture',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2018/06/17/17/48/pen-3481061__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2018/06/17/17/48/pen-3481061_1280.jpg',
+    description: 'Pen-Handwriting-Letter',
+  },
 ];
+
